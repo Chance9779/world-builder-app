@@ -1,0 +1,9 @@
+// dbdiagram.io code
+
+Table projects {
+  id integer [primary key]
+  name text [not null]
+  description text
+  created timestamp
+  updated timestamp
+}

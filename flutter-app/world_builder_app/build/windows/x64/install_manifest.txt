@@ -1,0 +1,11 @@
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/_SRC/world-builder-app/flutter-app/world_builder_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
